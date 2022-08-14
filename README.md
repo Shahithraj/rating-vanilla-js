@@ -1,3 +1,3 @@
 # rating-vanilla-js
-# https://review-card-shahith.netlify.app
+# https://rating-vanilla.netlify.app
 
